@@ -2,8 +2,6 @@
 
 Graduating from Information Systems, developer and an enthusiast in UI / UX, I am passionate about new technologies and always look for employees in education. Brazilian,I'm from a small town in the interior of Ceará, where seeing ET is more common than a bug in the code.
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ronierlima&show_icons=true&title_color=2c3e50&text_color=2c3e50&icon_color=2c3e50&bg_color=bdc3c7&cache_seconds=2300">
-
 ## ⚡ Skills
 
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white&link=https://www.w3schools.com/js/default.asp)](https://www.w3schools.com/js/default.asp)
